@@ -1,0 +1,6 @@
+========= HOA DON =========
+Khach san: 1
+Phong     : 1
+Don gia   : 200000 VND/ngay
+So ngay   : 1
+Thanh tien: 200000 VND

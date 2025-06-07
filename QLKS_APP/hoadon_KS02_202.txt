@@ -1,0 +1,6 @@
+========= HOA DON =========
+Khach san: Vin
+Phong     : 202
+Don gia   : 5000000 VND/ngay
+So ngay   : 3
+Thanh tien: 15000000 VND

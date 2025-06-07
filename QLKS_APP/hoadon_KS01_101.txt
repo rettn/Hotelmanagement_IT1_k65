@@ -1,0 +1,6 @@
+========= HOA DON =========
+Khach san: MT
+Phong     : 101
+Don gia   : 4000000 VND/ngay
+So ngay   : 6
+Thanh tien: 24000000 VND
