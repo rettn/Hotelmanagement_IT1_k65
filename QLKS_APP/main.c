@@ -12,7 +12,7 @@
 
 void printTitle(const char* title) {
     resetColor();
-    setColor(11);
+    setColor(3);
     printf("============================================\n");
     printf("      %s\n", title);
     printf("============================================\n");
